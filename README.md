@@ -1,1 +1,1 @@
-# Read_prescription_YOLO_12n
+# Read_prescription_YOLO
